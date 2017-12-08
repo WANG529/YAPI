@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LP_Guardian</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="D1">D1 Donate</string>
+    <string name="A1">A1</string>
+</resources>
